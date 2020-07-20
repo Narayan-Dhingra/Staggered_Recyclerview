@@ -1,0 +1,2 @@
+rootProject.name='Staggered Recyclerview'
+include ':app'
